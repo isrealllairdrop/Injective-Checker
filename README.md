@@ -39,12 +39,15 @@ Letakkan file berikut di direktori yang sama dengan `bot.py`:
 
 ## ▶️ Menjalankan
 
-### 1. Instal dependensi:
+### 1. Clone Repositori
+```bash
+git clone https://github.com/isrealllairdrop/Injective-Checker.git
+```
+### 2. Instal dependensi:
 ```bash
 pip install web3 colorama
 ```
-
-### 2. Jalankan bot:
+### 3. Jalankan bot:
 ```bash
 python bot.py
 ```
