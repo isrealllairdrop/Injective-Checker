@@ -42,6 +42,7 @@ Letakkan file berikut di direktori yang sama dengan `bot.py`:
 ### 1. Clone Repositori
 ```bash
 git clone https://github.com/isrealllairdrop/Injective-Checker.git
+cd Injective-Cheker
 ```
 ### 2. Instal dependensi:
 ```bash
